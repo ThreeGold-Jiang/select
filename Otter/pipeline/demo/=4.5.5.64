@@ -1,0 +1,2 @@
+Requirement already satisfied: opencv_python_headless in /home/sxjiang/miniconda3/envs/otter/lib/python3.9/site-packages (4.8.1.78)
+Requirement already satisfied: numpy>=1.17.0 in /home/sxjiang/miniconda3/envs/otter/lib/python3.9/site-packages (from opencv_python_headless) (1.26.0)
